@@ -7,3 +7,6 @@
 ### 高性能架构
 ![高性能架构](/resources/img/gxnjg.png "Title")
 
+### 高可用架构
+![高可用架构](/resources/img/gkyjg.png "Title")
+
