@@ -10,3 +10,6 @@
 ### 高可用架构
 ![高可用架构](/resources/img/gkyjg.png "Title")
 
+### 伸缩性架构
+![伸缩性架构](/resources/img/ssxjg.png "Title")
+
