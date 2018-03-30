@@ -1,15 +1,7 @@
 # working-note
 积累总结的一些工作上用到的技术点知识及拓展的知识
 
-### 大型网站架构概述
-![大型网站架构概述](/resources/img/dxwzjggs.png "Title")
+### 大型网站架构技术
+[大型网站架构技术](./Dxwzjgjs.md "大型网站架构技术")
 
-### 高性能架构
-![高性能架构](/resources/img/gxnjg.png "Title")
-
-### 高可用架构
-![高可用架构](/resources/img/gkyjg.png "Title")
-
-### 伸缩性架构
-![伸缩性架构](/resources/img/ssxjg.png "Title")
 
